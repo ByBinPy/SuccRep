@@ -1,1 +1,1 @@
-print("my email olsoman.go@outlook.com")
+print("my email osloman.go@outlook.com")
